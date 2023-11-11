@@ -11,24 +11,34 @@ h3 {text-decoration: underline;
 
 a {
   text-decoration: none;
-  color: #64298c !important;
-  }
-a:hover{color:#3bb8d1;
-       }
+  color:#021126!important;
+}
 
-h4 { color: #f542b3 !important}
+a:hover{
+  color:#ffffff !important;
+}
 
-nav class {color:#3bafd9 !important }
+h4 {
+  color: #f542b3 !important;
+}
 
-h5 { color: #851ba6 !important}
+h5 { 
+  color: #851ba6 !important;
+}
 
 body {
   background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
 }
 
-h5 {font-family: sans-serif;}
+h5 {
+  font-family: sans-serif;
+}
 
 #image1 {
   border: 5px solid #453c3c;
   border-radius: 5px;
+}
+
+.btn-primary {
+  color: white !important;
 }
